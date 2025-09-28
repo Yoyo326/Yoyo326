@@ -1,16 +1,31 @@
-## Hi there 👋
+## Backend & Full-Stack Developer | Java Spring Specialist | Global Experience
 
-<!--
-**Yoyo326/Yoyo326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Key Project
+ 1. Remote Agri-Livestock Demand Matching System  
+   Developed a remote matching platform for agricultural and livestock supply-demand using Spring Framework 
+   - Implemented personalized recommendation algorithms  
+   - Automated AWS CI/CD deployment
+   - Designed scalable backend architecture with RESTful APIs  
+   ▶ GitHub: https://github.com/GreenHubPj/APIROUND.git
+   ▶ Demo Video: https://youtu.be/4WiTL4V2FCw
 
-Here are some ideas to get you started:
+2. Senior Care Facility Recommendation Platform 
+   Built a platform to compare and recommend care facilities using government open data.  
+   - Improved API response performance and enhanced system security 
+   - Tech Stack: Spring Boot, Spring Security, Oracle DB 
+   ▶ GitHub: https://github.com/Teamzz-SAGE/SAGE.git 
+   ▶ Demo Video: https://youtu.be/BcjNaAuBFFU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. Travel Matching Platform – MVC Model2 Architecture  
+   Developed a travel matching web application using Servlet API with an MVC Model2 structure.  
+   - Integrated **multi-language support and social login (OAuth)  
+   - Achieved 92% user satisfaction in usability testing  
+   ▶ GitHub: https://github.com/APIROUND/project.git  
+   ▶ Demo Video: https://youtu.be/SoYL1w-uDqk
+
+🌍 Global Experience:
+- 🇦🇺 Melbourne, Australia (2 yrs): Used MRP inventory system, contributed to data analysis and process optimization  
+- 🇨🇦 Vancouver, Canada (1 yr): Strengthened English communication and multicultural collaboration skills  
+- 🇨🇳 Shanghai, China (2 yrs): Language study at Fudan University, fluent in Mandarin, deepened cultural understanding
+
+📬Open to backend/ full-stack opportunities worldwide - let's connect :)
