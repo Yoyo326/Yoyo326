@@ -6,21 +6,24 @@ Developed a remote matching platform for agricultural and livestock supply-deman
 - Implemented personalized recommendation algorithms  
 - Automated AWS CI/CD deployment
 - Designed scalable backend architecture with RESTful APIs
-▶ GitHub: https://github.com/GreenHubPj/APIROUND.git
+
+🔗 GitHub: https://github.com/GreenHubPj/APIROUND.git
 ▶ Demo Video: https://youtu.be/4WiTL4V2FCw
 
 2. Senior Care Facility Recommendation Platform 
 Built a platform to compare and recommend care facilities using government open data.  
 - Improved API response performance and enhanced system security 
 - Tech Stack: Spring Boot, Spring Security, Oracle DB
-▶ GitHub: https://github.com/Teamzz-SAGE/SAGE.git
+
+🔗 GitHub: https://github.com/Teamzz-SAGE/SAGE.git
 ▶ Demo Video: https://youtu.be/BcjNaAuBFFU
 
 3. Travel Matching Platform – MVC Model2 Architecture  
 Developed a travel matching web application using Servlet API with an MVC Model2 structure.  
 - Integrated **multi-language support and social login (OAuth)  
 - Achieved 92% user satisfaction in usability testing
-▶ GitHub: https://github.com/APIROUND/project.git  
+
+🔗 GitHub: https://github.com/APIROUND/project.git  
 ▶ Demo Video: https://youtu.be/SoYL1w-uDqk
 
 🌍 Global Experience:
