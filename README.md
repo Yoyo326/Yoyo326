@@ -1,6 +1,5 @@
 ## Backend & Full-Stack Developer | Java Spring Specialist | Global Experience
 
-💡 Key Project
 ## 💡 Key Projects
 
 ---
