@@ -38,9 +38,19 @@ Developed a travel matching web application using **Servlet API** with an MVC Mo
 ▶️ Demo Video: [Watch on YouTube](https://youtu.be/SoYL1w-uDqk)
 
 
-🌍 Global Experience:
-- 🇦🇺 Melbourne, Australia (2 yrs): Used MRP inventory system, contributed to data analysis and process optimization  
-- 🇨🇦 Vancouver, Canada (1 yr): Strengthened English communication and multicultural collaboration skills  
-- 🇨🇳 Shanghai, China (2 yrs): Language study at Fudan University, fluent in Mandarin, deepened cultural understanding
 
-📬Open to backend/ full-stack opportunities worldwide - let's connect :)
+---
+## 🌍 Global Experience
+
+- 🇦🇺 **Melbourne, Australia (2 yrs)**:  
+  Utilized MRP inventory system; contributed to data analysis and process optimization
+
+- 🇨🇦 **Vancouver, Canada (1 yr)**:  
+  Strengthened English communication and multicultural collaboration skills
+
+- 🇨🇳 **Shanghai, China (2 yrs)**:  
+  Language study at Fudan University; fluent in Mandarin, developed cultural intelligence
+
+---
+
+📬 **Open to backend/full-stack opportunities worldwide – let’s connect!**
